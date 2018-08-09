@@ -1,3 +1,5 @@
+package com.github.violettakolunova;
+
 import java.util.Scanner;
 
 public class BoljsheeIzTrjoh {
